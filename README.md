@@ -1,2 +1,2 @@
 # CodeGladiator
-Coding for Research and Developement purpose
+Coding for Research and Development Purpose
